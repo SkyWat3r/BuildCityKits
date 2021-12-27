@@ -1,0 +1,52 @@
+name: BuildCityKits
+version: 1.0
+author: SkyWat3r 
+main: fr.skywat3r.BuildCityKits.Main
+commands:
+  kits:
+    description: Affiche les kits disponible sur ce serveur
+    
+  kit-joueur:
+    description: Donne le kit Joueur
+    
+  kit-youtubeur:
+    description: Donne le kit Youtubeur
+    permission: kit-ytb.use
+    
+  kit-miniyoutubeur:
+    description: Donne le kit MiniYoutubeur
+    permission: kit-miniytb.use
+    
+  kit-ministreameur:
+    description: Donne le kit MiniStreameur
+    permission: kit-ministreamer.use
+    
+  kit-streamer:
+    description: Donne le kit Streameur
+    permission: kit-streamer.use
+    
+  kit-vip:
+    description: Donne le kit Vip
+    permission: kit-vip.use
+    
+  kit-vip+:
+    description: Donne le kit Vip+
+    permission: kit-vip+.use
+    
+  kit-vip++:
+    description: Donne le kit Vip++
+    permission: kit-vip++.use
+    
+  kit-ultime:
+    description: Donne le kit Ultime
+    permission: kit-ultime.use
+    
+  kit-nourriture:
+    description: Donne le kit Nourriture
+    
+    
+    
+    
+    
+    
+    
